@@ -1,0 +1,6 @@
+framework module Pods_RajpalTestingappTests {
+  umbrella header "Pods-RajpalTestingappTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
